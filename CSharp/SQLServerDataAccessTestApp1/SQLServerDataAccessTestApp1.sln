@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLibrary", "..\..\SQLServerHomework\DataAccessLibrary\DataAccessLibrary.csproj", "{9B05108F-01C7-4470-9B38-34C3050CD368}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQLServerConsole", "..\..\SQLServerHomework\SQLServerConsole\SQLServerConsole.csproj", "{1C316420-ABD0-4EAC-A036-4A6D426004CA}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SQLHomeworkDB", "..\..\SQLServerHomework\SQLServerDB\SQLHomeworkDB.sqlproj", "{41878F33-8F33-46AB-9DAB-369FFA63660E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B05108F-01C7-4470-9B38-34C3050CD368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B05108F-01C7-4470-9B38-34C3050CD368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B05108F-01C7-4470-9B38-34C3050CD368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B05108F-01C7-4470-9B38-34C3050CD368}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C316420-ABD0-4EAC-A036-4A6D426004CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C316420-ABD0-4EAC-A036-4A6D426004CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C316420-ABD0-4EAC-A036-4A6D426004CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C316420-ABD0-4EAC-A036-4A6D426004CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41878F33-8F33-46AB-9DAB-369FFA63660E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF534183-DD81-4B50-8F45-4CC0B3ED34A5}
+	EndGlobalSection
+EndGlobal

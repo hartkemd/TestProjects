@@ -1,0 +1,10 @@
+div {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.top-and-bottom {
+    height: 40px;
+    background-color: orange;
+}

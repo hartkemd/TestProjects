@@ -1,0 +1,14 @@
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ConditionalsTest.exe
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ConditionalsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ConditionalsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ConditionalsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ref\ConditionalsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\bin\Debug\net6.0\ConditionalsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ref\ConditionalsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ConditionalsTestApp3\ConditionalsTest\obj\Debug\net6.0\ConditionalsTest.genruntimeconfig.cache

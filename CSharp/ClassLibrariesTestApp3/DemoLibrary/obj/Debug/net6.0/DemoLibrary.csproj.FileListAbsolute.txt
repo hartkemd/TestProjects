@@ -1,0 +1,12 @@
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+C:\Users\Mark\source\repos\TestProjects\ClassLibrariesTestApp3\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll

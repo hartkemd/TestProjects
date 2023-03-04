@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ExceptionsTest.exe
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ExceptionsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ExceptionsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ExceptionsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ref\ExceptionsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\bin\Debug\net6.0\ExceptionsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ref\ExceptionsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.genruntimeconfig.cache
+C:\Users\Mark\source\repos\TestProjects\ExceptionsTestApp3\ExceptionsTest\obj\Debug\net6.0\ExceptionsTest.csproj.AssemblyReference.cache

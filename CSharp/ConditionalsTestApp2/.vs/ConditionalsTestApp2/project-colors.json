@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eea09cd9-5d86-4ab7-be4a-9fa82847662e": {
+      "ProjectGuid": "eea09cd9-5d86-4ab7-be4a-9fa82847662e",
+      "DisplayName": "ConditionalsTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

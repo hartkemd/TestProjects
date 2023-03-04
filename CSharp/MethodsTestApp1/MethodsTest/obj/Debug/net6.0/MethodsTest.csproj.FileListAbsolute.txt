@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\MethodsTest.exe
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\MethodsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\MethodsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\MethodsTest.dll
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\ref\MethodsTest.dll
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\bin\Debug\net6.0\MethodsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.dll
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\ref\MethodsTest.dll
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\MethodsTestApp1\MethodsTest\obj\Debug\net6.0\MethodsTest.genruntimeconfig.cache

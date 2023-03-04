@@ -1,0 +1,4 @@
+h1, p {
+    display: inline-block;
+    border: solid 2px;
+}

@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+    h1 {
+        color: gray;
+        font-size: 300%;
+    }
+}

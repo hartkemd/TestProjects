@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.exe
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.deps.json
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.dll
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\ref\DoWhileLoops.dll
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\bin\Debug\net6.0\DoWhileLoops.pdb
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.dll
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\ref\DoWhileLoops.dll
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.pdb
+C:\Users\Mark\source\repos\TestProjects\DoWhileLoopsTestApp3\DoWhileLoops\obj\Debug\net6.0\DoWhileLoops.genruntimeconfig.cache

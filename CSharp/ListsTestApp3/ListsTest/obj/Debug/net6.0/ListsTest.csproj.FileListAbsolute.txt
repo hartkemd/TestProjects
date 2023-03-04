@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ListsTest.exe
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ListsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ListsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ListsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ref\ListsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\bin\Debug\net6.0\ListsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ref\ListsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ListsTestApp3\ListsTest\obj\Debug\net6.0\ListsTest.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\BreakpointsTest.exe
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\BreakpointsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\BreakpointsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\BreakpointsTest.dll
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\ref\BreakpointsTest.dll
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\bin\Debug\net6.0\BreakpointsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.dll
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\ref\BreakpointsTest.dll
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\BreakpointsTestApp2\BreakpointsTest\obj\Debug\net6.0\BreakpointsTest.genruntimeconfig.cache

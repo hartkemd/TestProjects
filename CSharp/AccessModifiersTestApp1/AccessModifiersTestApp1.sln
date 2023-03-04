@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemo", "..\..\AccessModifiersDemoApp\AccessModifiersDemo\AccessModifiersDemo.csproj", "{F1DF2EE2-F6AE-4276-AC6F-0B11B18C24BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersDemoLibrary", "..\..\AccessModifiersDemoApp\AccessModifiersDemoLibrary\AccessModifiersDemoLibrary.csproj", "{D5A792DE-E7CD-4123-9314-1CAAA3F9A4B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DF2EE2-F6AE-4276-AC6F-0B11B18C24BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF2EE2-F6AE-4276-AC6F-0B11B18C24BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF2EE2-F6AE-4276-AC6F-0B11B18C24BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF2EE2-F6AE-4276-AC6F-0B11B18C24BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5A792DE-E7CD-4123-9314-1CAAA3F9A4B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A792DE-E7CD-4123-9314-1CAAA3F9A4B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A792DE-E7CD-4123-9314-1CAAA3F9A4B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A792DE-E7CD-4123-9314-1CAAA3F9A4B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C7E8FC-F2A7-4D52-B03D-85E24A714E68}
+	EndGlobalSection
+EndGlobal

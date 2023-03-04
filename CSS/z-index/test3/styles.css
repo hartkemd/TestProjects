@@ -1,0 +1,26 @@
+.black {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    z-index: 1;
+}
+
+.gray {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+
+.orange {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}

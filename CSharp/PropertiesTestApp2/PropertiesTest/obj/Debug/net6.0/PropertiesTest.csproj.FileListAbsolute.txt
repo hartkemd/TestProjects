@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\PropertiesTest.exe
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\PropertiesTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\PropertiesTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\PropertiesTest.dll
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\ref\PropertiesTest.dll
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\bin\Debug\net6.0\PropertiesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.dll
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\ref\PropertiesTest.dll
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\PropertiesTestApp2\PropertiesTest\obj\Debug\net6.0\PropertiesTest.genruntimeconfig.cache

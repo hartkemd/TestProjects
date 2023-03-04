@@ -1,0 +1,10 @@
+@media (min-width: 600px) {
+    h1 {
+        color: gray;
+        font-size: 300%;
+    }
+    p {
+        color: gray;
+        font-size: 400%;
+    }
+}

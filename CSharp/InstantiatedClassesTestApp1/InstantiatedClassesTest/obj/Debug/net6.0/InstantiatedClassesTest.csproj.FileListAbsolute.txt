@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\InstantiatedClassesTest.exe
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\InstantiatedClassesTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\InstantiatedClassesTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\InstantiatedClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\ref\InstantiatedClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\bin\Debug\net6.0\InstantiatedClassesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\ref\InstantiatedClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\InstantiatedClassesTestApp1\InstantiatedClassesTest\obj\Debug\net6.0\InstantiatedClassesTest.genruntimeconfig.cache

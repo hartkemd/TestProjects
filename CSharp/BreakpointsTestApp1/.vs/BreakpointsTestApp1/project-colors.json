@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66ccfd60-7ce3-4e14-93bb-5094c993f965": {
+      "ProjectGuid": "66ccfd60-7ce3-4e14-93bb-5094c993f965",
+      "DisplayName": "BreakpointsTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

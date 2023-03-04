@@ -1,0 +1,8 @@
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\bin\Debug\NamespacesTest.exe.config
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\bin\Debug\NamespacesTest.exe
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\bin\Debug\NamespacesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\obj\Debug\NamespacesTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\obj\Debug\NamespacesTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\obj\Debug\NamespacesTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\obj\Debug\NamespacesTest.exe
+C:\Users\Mark\source\repos\TestProjects\NamespacesTestApp1\NamespacesTest\obj\Debug\NamespacesTest.pdb

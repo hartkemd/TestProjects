@@ -1,0 +1,14 @@
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ForEachLoopsTest.exe
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ForEachLoopsTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ForEachLoopsTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ForEachLoopsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ref\ForEachLoopsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\bin\Debug\net6.0\ForEachLoopsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ref\ForEachLoopsTest.dll
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.pdb
+C:\Users\Mark\source\repos\TestProjects\ForEachLoopsTestApp2\ForEachLoopsTest\obj\Debug\net6.0\ForEachLoopsTest.genruntimeconfig.cache

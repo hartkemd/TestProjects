@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\DictionariesTest.exe
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\DictionariesTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\DictionariesTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\DictionariesTest.dll
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\ref\DictionariesTest.dll
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\bin\Debug\net6.0\DictionariesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.dll
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\ref\DictionariesTest.dll
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\DictionariesTestApp1\DictionariesTest\obj\Debug\net6.0\DictionariesTest.genruntimeconfig.cache

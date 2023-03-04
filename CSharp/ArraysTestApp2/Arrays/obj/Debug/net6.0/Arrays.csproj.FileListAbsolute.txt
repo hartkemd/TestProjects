@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\Arrays.exe
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\Arrays.deps.json
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\Arrays.dll
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\ref\Arrays.dll
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\bin\Debug\net6.0\Arrays.pdb
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.dll
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\ref\Arrays.dll
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.pdb
+C:\Users\Mark\source\repos\TestProjects\ArraysTestApp2\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache

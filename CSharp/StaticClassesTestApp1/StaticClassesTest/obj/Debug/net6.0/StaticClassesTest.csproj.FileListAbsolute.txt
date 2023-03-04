@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\StaticClassesTest.exe
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\StaticClassesTest.deps.json
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\StaticClassesTest.runtimeconfig.json
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\StaticClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\ref\StaticClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\bin\Debug\net6.0\StaticClassesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\ref\StaticClassesTest.dll
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.pdb
+C:\Users\Mark\source\repos\TestProjects\StaticClassesTestApp1\StaticClassesTest\obj\Debug\net6.0\StaticClassesTest.genruntimeconfig.cache
