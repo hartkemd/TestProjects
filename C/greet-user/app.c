@@ -1,79 +1,87 @@
 #include <stdio.h>
 #include <string.h>
-#include <stdbool.h>
 #include <ctype.h>
 
-const int maxCharsInName = 20;
+#define MAX_CHARS_IN_NAME 20
+#define FALSE 0
+#define TRUE 1
 
-void getNameFromUser(char *name);
-void removeNewlineChar(char input[], size_t len);
-void removeWhitespace(char *input);
-bool inputTooLong(char input[], size_t len, int maxLength);
+char* getNameFromUser();
+int isInputValid(char input[]);
+char* removeWhitespace(char input[]);
+void removeWhitespaceRecursive(char input[], char output[], int index, int outIndex);
+int isWhitespace(char c);
 void greetUser(char name[]);
 
 int main() {
-	char name[maxCharsInName];
+	char name[MAX_CHARS_IN_NAME];
 
-	getNameFromUser(name);
+	strcpy(name, getNameFromUser());
 	greetUser(name);
 
 	return 0;
 }
 
-void getNameFromUser(char *name) {
+char* getNameFromUser() {
 	size_t len = 0;
-	char input[50];
-	while(len == 0 || len >= maxCharsInName) {
+	char userInput[50];
+	int inputIsValid = FALSE;
+
+	while(inputIsValid == FALSE) {
 		printf("Please enter your first name: ");
-		fgets(input, sizeof(input), stdin);
-		len = strlen(input);
-		removeNewlineChar(input, len);
-        removeWhitespace(input);
-		len = strlen(input);
-
-		if (len == 0)
-            printf("Name cannot be empty. Please try again.\n");
-        else if (inputTooLong(input, len, maxCharsInName) == true)
-            printf("The maximum characters allowed for a name is %d. Please try again.\n", maxCharsInName);
+		fgets(userInput, sizeof(userInput), stdin);
+		len = strlen(userInput);
+		userInput[len - 1] = '\0'; // Remove the newline character
+        strcpy(userInput, removeWhitespace(userInput));
+		len = strlen(userInput);
+		inputIsValid = isInputValid(userInput);
 	}
 
-	strcpy(name, input);
+	return strdup(userInput);
 }
 
-void removeNewlineChar(char input[], size_t len) {
-	// Replace newline character at end of string with null
-	if (len > 0 && input[len - 1] == '\n') {
-		input[len - 1] = '\0';
-	}
+int isInputValid(char input[]) {
+    size_t len = strlen(input);
+
+    if (len <= 0) {
+        printf("Name cannot be empty. Please try again.\n");
+        return FALSE;
+    }
+    else if (len >= MAX_CHARS_IN_NAME) {
+        printf("The maximum characters allowed for a name is %d. Please try again.\n", MAX_CHARS_IN_NAME);
+        return FALSE;
+    }
+    else {
+        return TRUE;
+    }
 }
 
-void removeWhitespace(char *input) {
+char* removeWhitespace(char input[]) {
+    char output[MAX_CHARS_IN_NAME];
+    removeWhitespaceRecursive(input, output, 0, 0); // Call the recursive function
+    return strdup(output);
+}
 
-    // Base case: If the string is empty, return
-    if (*input == '\0') {
+void removeWhitespaceRecursive(char input[], char output[], int index, int outIndex) {
+
+    // Base case: end of input string
+    if (input[index] == '\0') {
+        output[outIndex] = '\0';  // Null-terminate the output string
         return;
     }
 
-    // If the current character is a whitespace character, remove it
-    if ((isspace(*input) != 0)) {
-        // Shift all characters to the left
-        char *temp = input;
-        while (*temp != '\0') {
-            *temp = *(temp + 1);
-            temp++;
-        }
-
-        // Call the function recursively on the modified string
-        removeWhitespace(input);
+    // If the current character is not whitespace, add it to the output
+    if (isWhitespace(input[index]) == FALSE) {
+        output[outIndex] = input[index];
+        removeWhitespaceRecursive(input, output, index + 1, outIndex + 1);
     } else {
-        // Move to the next character in the string
-        removeWhitespace(input + 1);
+        // If the current character is whitespace, skip it
+        removeWhitespaceRecursive(input, output, index + 1, outIndex);
     }
 }
 
-bool inputTooLong(char input[], size_t len, int maxLength) {
-	if (len > maxLength) return true;
-	else return false;
+int isWhitespace(char c) {
+    return (c == ' ' || c == '\t' || c == '\n' || c == '\r');
 }
 
 void greetUser(char *name) {
