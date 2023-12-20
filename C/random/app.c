@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+#include <string.h>
 
 char getRandom() {
     // Seed the random number generator with the current time
@@ -28,26 +29,29 @@ void printResult(char number) {
     }
 }
 
-char getNumberFromUser() {
-    char userInput[2];
+int getNumberFromUser() {
+    char userInput[3];
     char *endptr;
-    char number;
-    char isValid = 0;
+    int number;
+    int isValid = 0;
 
-    while(isValid == 0) {
+    while (isValid == 0) {
         printf("How many times do you want to roll? (min 0, max 9) ");
         fgets(userInput, sizeof(userInput), stdin);
 
-        // Convert string to long
-        number = strtol(userInput, &endptr, 10);
+        // Remove newline character
+        if (userInput[strlen(userInput) - 1] == '\n') {
+            userInput[strlen(userInput) - 1] = '\0';
+        }
 
-        // Check for conversion errors
-        if (*endptr != '\0' && *endptr != '\n') {
+        int result = sscanf(userInput, "%d", &number);
+        
+        // Convert string to int
+        if (result != 1 || number < 0 || number > 9) {
             isValid = 0;
-            printf("Conversion error: %s\n", endptr);
+            printf("Invalid input. Please enter a valid number between 0 and 9.\n");
         } else {
             isValid = 1;
-            // printf("Parsed number: %d\n", number);
         }
     }
 
@@ -55,7 +59,7 @@ char getNumberFromUser() {
 }
 
 int main() {
-    char numberOfTimes = getNumberFromUser();
+    int numberOfTimes = getNumberFromUser();
     printf("You would like to roll %d times.\n", numberOfTimes);
     // char number = getRandom();
     // printResult(number);
