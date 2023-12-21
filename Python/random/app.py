@@ -8,20 +8,22 @@ def get_randoms(times_to_roll):
     return numbers
 
 def print_results(numbers):
-    for number in numbers:
+    roll_message = "* Die roll"
+
+    for index, number in enumerate(numbers, start=1):
         if (number == 1):
-            print("Uh oh! You rolled a 1. Critical failure!")
+            print(f"{roll_message} {index}: 1 - Critical failure!")
         elif (number > 1 and number < 6):
-            print(f"You rolled a {number}.")
+            print(f"{roll_message} {index}: {number}")
         elif (number == 6):
-            print("Wow! You rolled a 6. Critical success!")
-    
+            print(f"{roll_message} {index}: 6 - Critical success!")
+
 def get_and_validate_input():
     number = -1
     isValid = False
 
     while(not isValid):
-        user_input = input("How many times do you want to roll? (0-9) ")
+        user_input = input("How many times do you want to roll? (0-9): ")
 
         # Validate integer
         try:
@@ -43,6 +45,13 @@ def roll_dice(times_to_roll):
     my_numbers = get_randoms(times_to_roll)
     print_results(my_numbers)
 
+def display_welcome():
+    print("Welcome to my 6-sided die app!")
+
+def display_closing():
+    print("Thanks for playing!")
+
+display_welcome()
 times_to_roll = get_and_validate_input()
 roll_dice(times_to_roll)
-print("Thanks for playing!")
+display_closing()
