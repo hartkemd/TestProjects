@@ -1,8 +1,6 @@
 import random
-import time
 
 def get_randoms(times_to_roll):
-    # random.seed(time.time())
     numbers = random.sample(range(1, 6 + 1), times_to_roll)
 
     return numbers
