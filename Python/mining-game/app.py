@@ -87,8 +87,17 @@ def swing_pickaxe():
         isHit = True
 
     while (choice == 1):
+
+        global pickaxe_sharpness
+        if pickaxe_sharpness <= 0:
+            print("Your pickaxe is too dull.")
+            break
+
         swing_count += 1
+
         if isHit:
+            pickaxe_sharpness -= 40
+
             print("You hit the vein!")
             ore_roll = get_random()
             if ore_roll > 70:
@@ -106,6 +115,7 @@ def swing_pickaxe():
     print_stats(ore_count, rock_count, swing_count)
 
 
+pickaxe_sharpness = 100
 choices = ["1 = enter mine", "2 = quit"]
 print_choices(choices)
 choice = get_valid_choice(choices, "What will you do?")
