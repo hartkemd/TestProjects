@@ -135,4 +135,4 @@ while True:
     else:
         break
 
-print("Goodbye.")
+print("Thanks for playing! Goodbye.")
