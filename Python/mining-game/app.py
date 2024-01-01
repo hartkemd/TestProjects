@@ -57,12 +57,16 @@ def get_valid_choice(choices, prompt):
 
 def enter_mine():
     print("You have entered the mine.")
-    print("Three veins lay ahead.")
+
     choices = ["1 = swing pickaxe", "2 = exit mine"]
     print_choices(choices)
     choice = get_valid_choice(choices, "What will you do?")
+    global pickaxe_is_too_dull
     if choice == 1:
-        swing_pickaxe()
+        if pickaxe_is_too_dull == False:
+            swing_pickaxe()
+        else:
+            print("Your pickaxe is too dull.")
 
 
 def get_random():
@@ -90,6 +94,8 @@ def swing_pickaxe():
 
         global pickaxe_sharpness
         if pickaxe_sharpness <= 0:
+            global pickaxe_is_too_dull
+            pickaxe_is_too_dull = True
             print("Your pickaxe is too dull.")
             break
 
@@ -116,9 +122,18 @@ def swing_pickaxe():
 
 
 pickaxe_sharpness = 100
-choices = ["1 = enter mine", "2 = quit"]
-print_choices(choices)
-choice = get_valid_choice(choices, "What will you do?")
-if choice == 1:
-    enter_mine()
+pickaxe_is_too_dull = False
+number_of_veins_in_mine = 3
+
+while True:
+
+    choices = ["1 = enter mine", "2 = quit"]
+    print_choices(choices)
+    choice = get_valid_choice(choices, "What will you do?")
+
+    if choice == 1:
+        enter_mine()
+    else:
+        break
+    
 print("Goodbye.")
