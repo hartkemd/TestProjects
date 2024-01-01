@@ -123,7 +123,6 @@ def swing_pickaxe():
 
 pickaxe_sharpness = 100
 pickaxe_is_too_dull = False
-number_of_veins_in_mine = 3
 
 while True:
 
@@ -135,5 +134,5 @@ while True:
         enter_mine()
     else:
         break
-    
+
 print("Goodbye.")
