@@ -57,7 +57,7 @@ def get_contact_info(url:str):
         return None
 
 
-def write_csv(url, list:list):
+def write_csv_by_row(url, list:list):
 
     file_path = "contacts.csv"
 
@@ -66,8 +66,6 @@ def write_csv(url, list:list):
     with open(file_path, mode='w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow(field_names)
-
-        list_length = len(list)
         csv_writer.writerow([url, list[0], list[1]])
 
     print(f"CSV file has been output to {file_path}")
@@ -81,7 +79,7 @@ def main():
         
         if contact_info:
             print(f"Contact information for {url}: {contact_info}")
-            write_csv(url, contact_info)
+            write_csv_by_row(url, contact_info)
         else:
             print(f"Failed to retrieve contact information for {url}")
 
